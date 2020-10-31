@@ -2,3 +2,4 @@
 .DS_Store
 .ipynb_checkpoints/introduction-checkpoint.ipynb
 pytorch_model.bin
+.ipynb_checkpoints/model_input-checkpoint.ipynb
